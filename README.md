@@ -8,7 +8,8 @@
 <div align=center>  
 
 
-### *For him, beginning should entail ending* 
+### *"From Humble Beginnings Come Great Things"*  
+
 <div>
 
 
