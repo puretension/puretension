@@ -53,6 +53,8 @@
 
 <div>
 
+## Published<br>
+### [인터미션: 인터뷰, 설문, 좌담회, 리서치, 부업(2024/01/10~)](https://apps.apple.com/us/app/인터미션-intermission/id6471970116)
 
 
 
