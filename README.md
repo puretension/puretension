@@ -8,7 +8,6 @@
 <div align=center>  
 
 
-### *"Mobile Wizard: Shaping futures on mobile."*  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpuretension&count_bg=%233D43C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
@@ -61,9 +60,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <div>
-
-## Published<br>
-### [인터미션: 인터뷰, 설문, 좌담회, 리서치, 부업(2024/01/10~)](https://apps.apple.com/us/app/인터미션-intermission/id6471970116)
 
 
 
