@@ -12,7 +12,7 @@
 
 
 
-### ✨ Released & Managed Application
+### 💻 Released & Managed Application
 [Bubble](https://letscareer.oopy.io/17a5e77c-bee1-80cd-8239-e09b49af696c) | Front-End Engineer | 2024. 03 ~ 2025. 02
 - <img src="https://github.com/user-attachments/assets/26d04e55-6af5-4f54-a80a-33a7a3f3e901" alt="Poppin Icon" width="16" height="16" /> 팝핀 | IOS: [Link](https://apps.apple.com/kr/app/팝핀-맞춤형-팝업-스토어-추천/id6482994685) | ver.1.0.0 ~ 1.4.1 
 
