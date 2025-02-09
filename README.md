@@ -1,15 +1,21 @@
-[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpuretension&count_bg=%233D43C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yooniverse.dev)](https://www.instagram.com/yooniverse.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)](https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)
 
-# 이도형 (Lee Dohyeong) 
+## 👋🏻 Dohyeong Lee (Software Engineer)
 
-갈증을 통한 몰입으로 빠르고 깊이 있게 공부하는 개발자 이도형입니다.
+### 🏢 Work Experience
+- (주) R2C Company | Software Engineer | 2024. 07 ~ Present
 
-## Info & Connect
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dohyeong_Lee-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/puretension/)
-[![Tech Blog Badge](https://img.shields.io/badge/Tech_Blog-Puretension's_Experiences-blue?style=flat-square)](https://purelime.tistory.com)
-[![Email Badge](https://img.shields.io/badge/Email-kr.dev.puretension@gmail.com-blue?style=flat-square)](mailto:kr.dev.puretension@gmail.com)
+### 🪪 Certifications
+<div style="display: flex; flex-direction: row;">
+    <a href="https://www.credly.com/earner/earned/badge/34325ea8-95fd-433d-82d0-0efd8b9163fb"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
+</div> 
 
+
+
+
+<!--
 ##  Skill
 
 ### Tech Stack
