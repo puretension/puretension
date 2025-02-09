@@ -1,9 +1,23 @@
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yooniverse.dev)](https://www.instagram.com/puretension__/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)](https://www.linkedin.com/in/puretension)
+
 ## 👋🏻 Dohyeong Lee (Software Engineer)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dohyeong_Lee-white?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/puretension/)
+[![Email Badge](https://img.shields.io/badge/Email-kr.dev.leedohyeong@gmail.com-white?style=flat-square)](mailto:kr.dev.leedohyeong@gmail.com)
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-leedohyeong-white?style=flat-square&logo=linkedin)](https://www.leedohyeong.com)
+
+
 ### 🏢 Work Experience
-- [(주) R2C Company](https://pickply.com/guide/customer) | Software Engineer | 2024. 07 ~ Present
+[(주) R2C Company](https://pickply.com/guide/customer) | Software Engineer | 2024. 07 ~ Present
+- <img src="https://github.com/user-attachments/assets/63cacbff-6b16-4f90-a78a-bb7cd582f4cb" alt="Pickply Icon" width="16" height="16" /> Pickply | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | AOS: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko)
+
+### Released & Managed Application
+[GrowthHelper](https://growthhelper.kr) | Software Engineer | 2023. 07 ~ 2025. 06
+- <img src="https://github.com/user-attachments/assets/07409331-084f-41ab-885b-2e90da5cba88" alt="Intermission Icon" width="16" height="16" /> Intermission | IOS: [Link](https://apps.apple.com/us/app/인터미션-intermission/id6471970116) ( ver.1.0.0 ~ 1.0.2 )
+  
+[BUBBLE](https://letscareer.oopy.io/17a5e77c-bee1-80cd-8239-e09b49af696c) | Front-End Engineer | 2023. 07 ~ 2025. 06
+- <img src="https://github.com/user-attachments/assets/26d04e55-6af5-4f54-a80a-33a7a3f3e901" alt="Poppin Icon" width="16" height="16" /> Pickply | IOS: [Link](https://apps.apple.com/kr/app/팝핀-맞춤형-팝업-스토어-추천/id6482994685) (ver.1.0.0 ~ 1.4.1)
+
+
 
 
 ### 🪪 Certifications
@@ -12,6 +26,7 @@
 </div> 
 
 
+<br>
 
 
 <!--
