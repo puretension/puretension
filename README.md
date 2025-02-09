@@ -7,17 +7,17 @@
 
 ### 🏢 Work Experience
 [(주) R2C Company](https://pickply.com/guide/customer) | Software Engineer | 2024. 07 ~ Present
-- <img src="https://github.com/user-attachments/assets/63cacbff-6b16-4f90-a78a-bb7cd582f4cb" alt="Pickply Icon" width="16" height="16" /> 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | AOS: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko)
+- <img src="https://github.com/user-attachments/assets/63cacbff-6b16-4f90-a78a-bb7cd582f4cb" alt="Pickply Icon" width="16" height="16" /> 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | AOS: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 
 
 
 
 
 ### Released & Managed Application
 [Bubble](https://letscareer.oopy.io/17a5e77c-bee1-80cd-8239-e09b49af696c) | Front-End Engineer | 2024. 03 ~ 2025. 02
-- <img src="https://github.com/user-attachments/assets/26d04e55-6af5-4f54-a80a-33a7a3f3e901" alt="Poppin Icon" width="16" height="16" /> 팝핀 | IOS: [Link](https://apps.apple.com/kr/app/팝핀-맞춤형-팝업-스토어-추천/id6482994685) (ver.1.0.0 ~ 1.4.1)
+- <img src="https://github.com/user-attachments/assets/26d04e55-6af5-4f54-a80a-33a7a3f3e901" alt="Poppin Icon" width="16" height="16" /> 팝핀 | IOS: [Link](https://apps.apple.com/kr/app/팝핀-맞춤형-팝업-스토어-추천/id6482994685) | ver.1.0.0 ~ 1.4.1 
 
 [GrowthHelper](https://growthhelper.kr) | Software Engineer | 2023. 07 ~ 2024. 06
-- <img src="https://github.com/user-attachments/assets/07409331-084f-41ab-885b-2e90da5cba88" alt="Intermission Icon" width="16" height="16" /> 인터미션 | IOS: [Link](https://apps.apple.com/us/app/인터미션-intermission/id6471970116) ( ver.1.0.0 ~ 1.0.2 )
+- <img src="https://github.com/user-attachments/assets/07409331-084f-41ab-885b-2e90da5cba88" alt="Intermission Icon" width="16" height="16" /> 인터미션 | IOS: [Link](https://apps.apple.com/us/app/인터미션-intermission/id6471970116) | ver.1.0.0 ~ 1.0.2 
   
 
 
