@@ -3,7 +3,7 @@
 ## 👋🏻 Dohyeong Lee (Software Engineer)
 
 ### 🏢 Work Experience
-- (주) R2C Company | Software Engineer | 2024. 07 ~ Present
+- [(주) R2C Company](https://pickply.com/guide/customer) | Software Engineer | 2024. 07 ~ Present
 
 
 ### 🪪 Certifications
