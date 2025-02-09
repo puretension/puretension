@@ -1,6 +1,5 @@
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yooniverse.dev)](https://www.instagram.com/yooniverse.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)](https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yooniverse.dev)](https://www.instagram.com/puretension__/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)](https://www.linkedin.com/in/puretension)
 ## 👋🏻 Dohyeong Lee (Software Engineer)
 
 ### 🏢 Work Experience
