@@ -23,7 +23,7 @@
 
 
 
-### 🪪 Certifications
+### 🪪 Certification
 <div style="display: flex; flex-direction: row;">
     <a href="https://www.credly.com/earner/earned/badge/34325ea8-95fd-433d-82d0-0efd8b9163fb"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solution Architect-blue?logo=amazon&logoColor=white"></a> 
 </div> 
