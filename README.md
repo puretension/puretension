@@ -7,7 +7,7 @@
 
 ### 🏢 Work Experience
 [(주) R2C Company](https://pickply.com/guide/customer) | Software Engineer | 2024. 07 ~ Present
-- <img src="https://github.com/user-attachments/assets/63cacbff-6b16-4f90-a78a-bb7cd582f4cb" alt="Pickply Icon" width="16" height="16" /> 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | AOS: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 
+- <img src="https://github.com/user-attachments/assets/63cacbff-6b16-4f90-a78a-bb7cd582f4cb" alt="Pickply Icon" width="16" height="16" /> 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 
 
 
 
