@@ -1,32 +1,30 @@
-
 ## 👋🏻 Dohyeong Lee (Software Engineer)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dohyeong_Lee-white?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/puretension/)
 [![Email Badge](https://img.shields.io/badge/Email-kr.dev.leedohyeong@gmail.com-white?style=flat-square)](mailto:kr.dev.leedohyeong@gmail.com)
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-https://www.leedohyeong.com-white?style=flat-square&logo=linkedin)](https://www.leedohyeong.com)
 
-
 ### 🏢 Work Experience
-[(주) R2C Company](https://pickply.com/guide/customer) | Software Engineer | 2024. 07 ~ Present
-- <img src="https://github.com/user-attachments/assets/63cacbff-6b16-4f90-a78a-bb7cd582f4cb" alt="Pickply Icon" width="16" height="16" /> 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 
 
+[(주) R2C Company](https://pickply.com) | Software Engineer | 2024. 07 ~ Present
 
-
+- <img src="https://github.com/user-attachments/assets/63cacbff-6b16-4f90-a78a-bb7cd582f4cb" alt="Pickply Icon" width="16" height="16" /> 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~
 
 ### 💻 Released & Managed Application
+
 [Bubble](https://letscareer.oopy.io/17a5e77c-bee1-80cd-8239-e09b49af696c) | Front-End Engineer | 2024. 03 ~ 2025. 02
-- <img src="https://github.com/user-attachments/assets/26d04e55-6af5-4f54-a80a-33a7a3f3e901" alt="Poppin Icon" width="16" height="16" /> 팝핀 | IOS: [Link](https://apps.apple.com/kr/app/팝핀-맞춤형-팝업-스토어-추천/id6482994685) | ver.1.0.0 ~ 1.4.1 
+
+- <img src="https://github.com/user-attachments/assets/26d04e55-6af5-4f54-a80a-33a7a3f3e901" alt="Poppin Icon" width="16" height="16" /> 팝핀 | IOS: [Link](https://apps.apple.com/kr/app/팝핀-맞춤형-팝업-스토어-추천/id6482994685) | ver.1.0.0 ~ 1.4.1
 
 [GrowthHelper](https://growthhelper.kr) | Software Engineer | 2023. 07 ~ 2024. 06
-- <img src="https://github.com/user-attachments/assets/07409331-084f-41ab-885b-2e90da5cba88" alt="Intermission Icon" width="16" height="16" /> 인터미션 | IOS: [Link](https://apps.apple.com/us/app/인터미션-intermission/id6471970116) | ver.1.0.0 ~ 1.0.2 
-  
 
-
+- <img src="https://github.com/user-attachments/assets/07409331-084f-41ab-885b-2e90da5cba88" alt="Intermission Icon" width="16" height="16" /> 인터미션 | IOS: [Link](https://apps.apple.com/us/app/인터미션-intermission/id6471970116) | ver.1.0.0 ~ 1.0.2
 
 ### 🪪 Technical Certification
+
 <div style="display: flex; flex-direction: row;">
     <a href="https://www.credly.com/badges/34325ea8-95fd-433d-82d0-0efd8b9163fb/public_url"><img alt="SAA-C03" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
-</div> 
-
+</div>
 
 <!--
 ##  Skill
@@ -56,7 +54,7 @@
 
 
 <div align=left>
-   
+
 ### 🛠️ Tool & Collaboration
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
