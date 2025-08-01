@@ -20,10 +20,10 @@ Passionate about **close communication**, data-driven development, team alignmen
 
 
 ### 🔥 Experience
-- 2025 OSSCA ArgoCD Mentee (2025. 07 ~ 2025. 12)
-- AWS Cloud Clubs - Dongguk University 1st Founder & Captain (2025. 05 ~ 2026. 03)
-- Google Developer Groups on Campus (GDGoC) - Dongguk University 2st Organizer (2024. 08 ~ 2025. 08)
-- Google Developer Student Clubs (GDSC) - Dongguk University 1st Web/App Member (2023. 09 ~ 2024. 08)
+- [2025 OSSCA ArgoCD](https://argo-oss.github.io) Mentee (2025. 07 ~ 2025. 12)
+- [AWS Cloud Clubs](https://www.meetup.com/ko-KR/aws-cloud-club-at-dongguk-university/) - Dongguk University 1st Founder & Captain (2025. 05 ~ 2026. 03)
+- [Google Developer Groups on Campus (GDGoC)](https://www.gdgoc-dgu.com) - Dongguk University 2st Organizer (2024. 08 ~ 2025. 08)
+- [Google Developer Student Clubs (GDSC)](https://www.gdgoc-dgu.com) - Dongguk University 1st Web/App Member (2023. 09 ~ 2024. 08)
 
 ### 💻 Released & Managed Application
 
