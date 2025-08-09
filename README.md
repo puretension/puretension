@@ -4,7 +4,7 @@
 ### [📄resume](https://drive.google.com/file/d/1TWItWuc-fAsW9-wPw2_fqNwC3GmqrD22/view?usp=sharing)
 
 Software engineer with a **growth mindset**, transitioning from liberal arts to computer science while maintaining a top GPA.</br> 
-Experienced in full-stack development and cloud solutions **at startups**, with a strong focus on building scalable and reliable systems.</br> 
+Experienced in full-stack development and cloud solutions **at startups**, with a focus on building scalable and reliable systems.</br> 
 Passionate about transparent communication, team alignment and full **ownership** to drive business value.</br>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dohyeong_Lee-white?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/puretension/)
