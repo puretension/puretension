@@ -7,7 +7,7 @@ Software engineer with a **growth mindset**, transitioning from liberal arts to 
 Experienced in full-stack development and cloud solutions **at startups**, with a focus on building scalable and reliable systems.</br> 
 Passionate about transparent communication, team alignment and full **ownership** to drive business value.</br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dohyeong_Lee-white?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/puretension/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dohyeong_Lee-white?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leedohyeong/)
 [![Email Badge](https://img.shields.io/badge/Email-kr.dev.leedohyeong@gmail.com-white?style=flat-square)](mailto:kr.dev.leedohyeong@gmail.com)
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-https://www.leedohyeong.com-white?style=flat-square&logo=linkedin)](https://www.leedohyeong.com)
 
