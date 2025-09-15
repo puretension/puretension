@@ -44,11 +44,13 @@ Passionate about transparent communication, team alignment and full **ownership*
 <div style="display: flex; flex-direction: row;">
     <a href="https://www.credly.com/badges/34325ea8-95fd-433d-82d0-0efd8b9163fb/public_url"><img alt="SAA-C03" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
 </div>
-
+https://github.com/aws/aws-cdk/pull/35478
 
 ### ✨Open-Source Contributions
 * [argoproj/argo-cd (#23888)](https://github.com/argoproj/argo-cd/pull/23888)
 * [argoproj/argo-workflows (#14816)](https://github.com/argoproj/argo-workflows/pull/14816)
+* [aws/aws-cdk (#35484)](https://github.com/aws/aws-cdk/pull/35484)
+* [aws/aws-cdk (#35478)](https://github.com/aws/aws-cdk/pull/35478)
 
 <!--
 ##  Skill
