@@ -47,6 +47,7 @@ Passionate about transparent communication, team alignment and full **ownership*
 
 ### ✨Open-Source Contributions
 * [argoproj/argo-cd (#23888)](https://github.com/argoproj/argo-cd/pull/23888)
+* [argoproj/argo-helm (#3494)](https://github.com/argoproj/argo-helm/pull/3494) 
 * [argoproj/argo-workflows (#14816)](https://github.com/argoproj/argo-workflows/pull/14816)
 * [aws/aws-cdk (#35484)](https://github.com/aws/aws-cdk/pull/35484)
 * [aws/aws-cdk (#35478)](https://github.com/aws/aws-cdk/pull/35478)
