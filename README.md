@@ -17,13 +17,19 @@ Passionate about transparent communication, team alignment and full **ownership*
 - [(주) 코드잇 (Series-B EdTech Startup)](https://sprint.codeit.kr) | 9th FullStack Sprint Mentor | 2025. 08 ~ Present
 - [(주) R2C Company (pre-A Startup)](https://pickply.com) | Software Engineer | 2024. 07 ~ Present
 
-
-
-### 🔥 Experience
-- [2025 OSSCA ArgoProj](https://argo-oss.github.io) Mentee (2025. 07 ~ 2025. 12)
+### 🔥 Community Experience
+- [2025 OSSCA argoproj](https://github.com/argoproj) Mentee (2025. 07 ~ 2025. 12)
 - [AWS Cloud Clubs](https://www.meetup.com/ko-KR/aws-cloud-club-at-dongguk-university/) - Dongguk University 1st Founder & Captain (2025. 05 ~ 2026. 03)
 - [Google Developer Groups on Campus (GDGoC)](https://www.gdgoc-dgu.com) - Dongguk University 2st Organizer (2024. 08 ~ 2025. 08)
 - [Google Developer Student Clubs (GDSC)](https://www.gdgoc-dgu.com) - Dongguk University 1st Web/App Member (2023. 09 ~ 2024. 08)
+
+### ✨ Open Source Contribution
+* [argoproj/argo-cd (#23888)](https://github.com/argoproj/argo-cd/pull/23888)
+* [argoproj/argo-helm (#3494)](https://github.com/argoproj/argo-helm/pull/3494)
+* [argoproj/argo-helm (#3500)](https://github.com/argoproj/argo-helm/pull/3500) 
+* [argoproj/argo-workflows (#14816)](https://github.com/argoproj/argo-workflows/pull/14816)
+* [aws/aws-cdk (#35484)](https://github.com/aws/aws-cdk/pull/35484)
+* [aws/aws-cdk (#35478)](https://github.com/aws/aws-cdk/pull/35478)
 
 ### 💻 Released & Managed Application
 
@@ -44,14 +50,6 @@ Passionate about transparent communication, team alignment and full **ownership*
 <div style="display: flex; flex-direction: row;">
     <a href="https://www.credly.com/badges/34325ea8-95fd-433d-82d0-0efd8b9163fb/public_url"><img alt="SAA-C03" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
 </div>
-
-### ✨ Open Source Contribution
-* [argoproj/argo-cd (#23888)](https://github.com/argoproj/argo-cd/pull/23888)
-* [argoproj/argo-helm (#3494)](https://github.com/argoproj/argo-helm/pull/3494)
-* [argoproj/argo-helm (#3500)](https://github.com/argoproj/argo-helm/pull/3500) 
-* [argoproj/argo-workflows (#14816)](https://github.com/argoproj/argo-workflows/pull/14816)
-* [aws/aws-cdk (#35484)](https://github.com/aws/aws-cdk/pull/35484)
-* [aws/aws-cdk (#35478)](https://github.com/aws/aws-cdk/pull/35478)
 
 <!--
 ##  Skill
