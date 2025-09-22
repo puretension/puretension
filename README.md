@@ -25,9 +25,13 @@ Passionate about transparent communication, team alignment and full **ownership*
 
 ### ✨ Open Source Contribution
 * [argoproj/argo-cd (#23888)](https://github.com/argoproj/argo-cd/pull/23888)
+* [argoproj/argo-cd (#24664)](https://github.com/argoproj/argo-cd/pull/24664)
+* [argoproj/argo-cd (#24658)](https://github.com/argoproj/argo-cd/pull/24658)
 * [argoproj/argo-helm (#3494)](https://github.com/argoproj/argo-helm/pull/3494)
-* [argoproj/argo-helm (#3500)](https://github.com/argoproj/argo-helm/pull/3500) 
+* [argoproj/argo-helm (#3500)](https://github.com/argoproj/argo-helm/pull/3500)
+* [argoproj/argo-helm (#3501)](https://github.com/argoproj/argo-helm/pull/3501) 
 * [argoproj/argo-workflows (#14816)](https://github.com/argoproj/argo-workflows/pull/14816)
+* [grafana/loki (#19227)](https://github.com/grafana/loki/pull/19227) 
 * [aws/aws-cdk (#35484)](https://github.com/aws/aws-cdk/pull/35484)
 * [aws/aws-cdk (#35478)](https://github.com/aws/aws-cdk/pull/35478)
 
