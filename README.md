@@ -24,18 +24,20 @@ Passionate about transparent communication, team alignment and full **ownership*
 - [Google Developer Student Clubs (GDSC)](https://www.gdgoc-dgu.com) - Dongguk University 1st Web/App Member (2023. 09 ~ 2024. 08)
 
 ### ✨ Open Source Contribution
-* [argoproj/argo-cd (#23888)](https://github.com/argoproj/argo-cd/pull/23888)
-* [argoproj/argo-cd (#24664)](https://github.com/argoproj/argo-cd/pull/24664)
-* [argoproj/argo-cd (#24658)](https://github.com/argoproj/argo-cd/pull/24658)
-* [argoproj/argo-helm (#3494)](https://github.com/argoproj/argo-helm/pull/3494)
-* [argoproj/argo-helm (#3500)](https://github.com/argoproj/argo-helm/pull/3500)
-* [argoproj/argo-helm (#3501)](https://github.com/argoproj/argo-helm/pull/3501) 
-* [argoproj/argo-workflows (#14816)](https://github.com/argoproj/argo-workflows/pull/14816)
-* [grafana/loki (#19227)](https://github.com/grafana/loki/pull/19227)
-* [grafana/loki (#19246)](https://github.com/grafana/loki/pull/19246)
-* [grafana/loki (#19247)](https://github.com/grafana/loki/pull/19247) 
-* [aws/aws-cdk (#35484)](https://github.com/aws/aws-cdk/pull/35484)
-* [aws/aws-cdk (#35478)](https://github.com/aws/aws-cdk/pull/35478)
+| **Organization** | **PR/Issue No.**                | **Contributions**              | **Type** |
+|------------------|---------------------|-------------------|----------|
+| **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
+| **argoproj** | **[argoproj/argo-cd #24664](https://github.com/argoproj/argo-cd/pull/24664)** | Resolve argocdService initialization issue in notifications CLI | Bugfix |
+| **argoproj** | **[argoproj/argo-cd #24658](https://github.com/argoproj/argo-cd/pull/24658)** | New `jqPaths` ignore differences field for dynamic field selection | Feature |
+| **argoproj** | **[argoproj/argo-helm #3494](https://github.com/argoproj/argo-helm/pull/3494)** | Add workflowtasksets/status RBAC permission | Bugfix |
+| **argoproj** | **[argoproj/argo-helm #3500](https://github.com/argoproj/argo-helm/pull/3500)** | Add custom roleRules support for application-controller | Feature |
+| **argoproj** | **[argoproj/argo-helm #3501](https://github.com/argoproj/argo-helm/pull/3501)** | Fix repo-server NetworkPolicy to allow metrics port access | Bugfix |
+| **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add label filter sync with URL query params | Feature |
+| **grafana** | **[grafana/loki #19227](https://github.com/grafana/loki/pull/19227)** | Update loki-helm-test image tag to latest commit | Bugfix |
+| **grafana** | **[grafana/loki #19246](https://github.com/grafana/loki/pull/19246)** | Standardize global image registry to match other Grafana charts | Bugfix |
+| **grafana** | **[grafana/loki #19247](https://github.com/grafana/loki/pull/19247)** | Support private VPC S3 endpoints in Loki operator | Feature |
+| **aws** | **[aws/aws-cdk #35484](https://github.com/aws/aws-cdk/pull/35484)** | Correct spelling of "separate" in comments | Documentation |
+| **aws** | **[aws/aws-cdk #35478](https://github.com/aws/aws-cdk/pull/35478)** | Add fallback grants for cross-account secrets | Bugfix |
 
 ### 💻 Released & Managed Application
 
