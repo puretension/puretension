@@ -1,7 +1,7 @@
 
 
 ## 👋🏻 Dohyeong Lee (Software Engineer)
-### [📄resume - Updated at 2025.08.01](https://drive.google.com/file/d/1TWItWuc-fAsW9-wPw2_fqNwC3GmqrD22/view?usp=sharing)
+### [📄Resume - updated at 2025.09.24](https://drive.google.com/file/d/1Z3pBIvrE-YXkYxiHm39CUsQajL7jbq1V/view?usp=share_link)
 
 Software engineer with a **growth mindset**, transitioning from liberal arts to computer science while maintaining a top GPA.</br> 
 Experienced in full-stack development and cloud solutions **at startups**, with a focus on building scalable and reliable systems.</br> 
