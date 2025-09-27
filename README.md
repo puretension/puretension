@@ -32,6 +32,7 @@ Passionate about transparent communication, team alignment and full **ownership*
 | **argoproj** | **[argoproj/argo-helm #3494](https://github.com/argoproj/argo-helm/pull/3494)** | Add workflowtasksets/status RBAC permission | Bugfix |
 | **argoproj** | **[argoproj/argo-helm #3500](https://github.com/argoproj/argo-helm/pull/3500)** | Add custom roleRules support for application-controller | Feature |
 | **argoproj** | **[argoproj/argo-helm #3501](https://github.com/argoproj/argo-helm/pull/3501)** | Fix repo-server NetworkPolicy to allow metrics port access | Bugfix |
+| **argoproj** | **[argoproj/argo-helm #3507](https://github.com/argoproj/argo-helm/pull/3507)** |  Allow configuring resource requests/limits for copyutil initContainer | Feature |
 | **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add label filter sync with URL query params | Feature |
 | **grafana** | **[grafana/loki #19227](https://github.com/grafana/loki/pull/19227)** | Update loki-helm-test image tag to latest commit | Bugfix |
 | **grafana** | **[grafana/loki #19246](https://github.com/grafana/loki/pull/19246)** | Standardize global image registry to match other Grafana charts | Bugfix |
