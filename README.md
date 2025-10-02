@@ -18,7 +18,7 @@ Passionate about transparent communication, team alignment and full **ownership*
 - [(주) R2C Company (pre-A Startup)](https://pickply.com) | Software Engineer | 2024. 07 ~ Present
 
 ### 🔥 Community Experience
-- [2025 OSSCA argoproj](https://github.com/argoproj) Mentee (2025. 07 ~ 2025. 12)
+- [2025 OSSCA argoproj](https://github.com/argoproj) Mentee (2025. 07 ~ 2025. 11)
 - [AWS Cloud Clubs](https://www.meetup.com/ko-KR/aws-cloud-club-at-dongguk-university/) - Dongguk University 1st Founder & Captain (2025. 05 ~ 2026. 03)
 - [Google Developer Groups on Campus (GDGoC)](https://www.gdgoc-dgu.com) - Dongguk University 2st Organizer (2024. 08 ~ 2025. 08)
 - [Google Developer Student Clubs (GDSC)](https://www.gdgoc-dgu.com) - Dongguk University 1st Web/App Member (2023. 09 ~ 2024. 08)
