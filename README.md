@@ -26,7 +26,7 @@ Passionate about transparent communication, team alignment and full **ownership*
 ### ✨ Open Source Contribution
 | **Organization** | **PR/Issue No.**                | **Contributions**              | **Type** |
 |------------------|---------------------|-------------------|----------|
-| **aws** | **[aws/aws-cdk #35508](https://github.com/aws/aws-cdk/pull/35508)** | Resolve target group conflict when switching ALB public/private | Bugfix |
+| **aws** | **[aws/aws-cdk #35508](https://github.com/aws/aws-cdk/pull/35508)** | fix(ecs-patterns): resolve target group conflict when updating ALB internetFacing or loadBalancerName | Bugfix |
 | **aws** | **[aws/aws-cdk #35484](https://github.com/aws/aws-cdk/pull/35484)** | Correct spelling of "separate" in comments | Documentation |
 | **aws** | **[aws/aws-cdk #35478](https://github.com/aws/aws-cdk/pull/35478)** | Add fallback grants for cross-account secrets | Bugfix |
 | **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
