@@ -26,6 +26,9 @@ Passionate about transparent communication, team alignment and full **ownership*
 ### ✨ Open Source Contribution
 | **Organization** | **PR/Issue No.**                | **Contributions**              | **Type** |
 |------------------|---------------------|-------------------|----------|
+| **aws** | **[aws/aws-cdk #35508](https://github.com/aws/aws-cdk/pull/35508)** | Resolve target group conflict when switching ALB public/private | Bugfix |
+| **aws** | **[aws/aws-cdk #35484](https://github.com/aws/aws-cdk/pull/35484)** | Correct spelling of "separate" in comments | Documentation |
+| **aws** | **[aws/aws-cdk #35478](https://github.com/aws/aws-cdk/pull/35478)** | Add fallback grants for cross-account secrets | Bugfix |
 | **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
 | **argoproj** | **[argoproj/argo-cd #24664](https://github.com/argoproj/argo-cd/pull/24664)** | Resolve argocdService initialization issue in notifications CLI | Bugfix |
 | **argoproj** | **[argoproj/argo-cd #24658](https://github.com/argoproj/argo-cd/pull/24658)** | New `jqPaths` ignore differences field for dynamic field selection | Feature |
@@ -38,9 +41,6 @@ Passionate about transparent communication, team alignment and full **ownership*
 | **grafana** | **[grafana/loki #19227](https://github.com/grafana/loki/pull/19227)** | Update loki-helm-test image tag to latest commit | Bugfix |
 | **grafana** | **[grafana/loki #19246](https://github.com/grafana/loki/pull/19246)** | Standardize global image registry to match other Grafana charts | Bugfix |
 | **grafana** | **[grafana/loki #19247](https://github.com/grafana/loki/pull/19247)** | Support private VPC S3 endpoints in Loki operator | Feature |
-| **aws** | **[aws/aws-cdk #35484](https://github.com/aws/aws-cdk/pull/35484)** | Correct spelling of "separate" in comments | Documentation |
-| **aws** | **[aws/aws-cdk #35508](https://github.com/aws/aws-cdk/pull/35508)** | Resolve target group conflict when switching ALB public/private | Bugfix |
-| **aws** | **[aws/aws-cdk #35478](https://github.com/aws/aws-cdk/pull/35478)** | Add fallback grants for cross-account secrets | Bugfix |
 | **googleapis** | **[googleapis/js-genai #821](https://github.com/googleapis/js-genai/pull/821)** | Replace string with typed unions for aspectRatioType | Feature |
 
 ### 💻 Released & Managed Application
