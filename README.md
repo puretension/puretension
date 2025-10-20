@@ -29,6 +29,8 @@ Passionate about transparent communication, team alignment and full **ownership*
 | **aws** | **[aws/aws-cdk #35508](https://github.com/aws/aws-cdk/pull/35508)** | fix(ecs-patterns): resolve target group conflict when updating ALB internetFacing or loadBalancerName | Bugfix |
 | **aws** | **[aws/aws-cdk #35484](https://github.com/aws/aws-cdk/pull/35484)** | Correct spelling of "separate" in comments | Documentation |
 | **aws** | **[aws/aws-cdk #35478](https://github.com/aws/aws-cdk/pull/35478)** | Add fallback grants for cross-account secrets | Bugfix |
+| **DataDog** | **[DataDog/integrations-core #21399](https://github.com/DataDog/integrations-core/pull/21399)** | Handle AttributeError when Qemu Agent is not available | Bugfix |
+| **DataDog** | **[DataDog/datadog-operator #2184](https://github.com/DataDog/datadog-operator/pull/2184)** | Add DD_DASHBOARD_FORCE_SYNC_PERIOD environment variable | Feature |
 | **argoproj** | **[argoproj/argo-events #3738](https://github.com/argoproj/argo-events/pull/3738)** | Handle null values properly in trigger payload construction | Bugfix |
 | **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
 | **argoproj** | **[argoproj/argo-cd #24664](https://github.com/argoproj/argo-cd/pull/24664)** | Resolve argocdService initialization issue in notifications CLI | Bugfix |
