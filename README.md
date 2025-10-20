@@ -31,6 +31,10 @@ Passionate about transparent communication, team alignment and full **ownership*
 | **aws** | **[aws/aws-cdk #35478](https://github.com/aws/aws-cdk/pull/35478)** | Add fallback grants for cross-account secrets | Bugfix |
 | **DataDog** | **[DataDog/integrations-core #21399](https://github.com/DataDog/integrations-core/pull/21399)** | Handle AttributeError when Qemu Agent is not available | Bugfix |
 | **DataDog** | **[DataDog/datadog-operator #2184](https://github.com/DataDog/datadog-operator/pull/2184)** | Add DD_DASHBOARD_FORCE_SYNC_PERIOD environment variable | Feature |
+| **grafana** | **[grafana/loki #19229](https://github.com/grafana/loki/pull/19229)** | Add single-binary component to ingress NetworkPolicy | Bugfix |
+| **grafana** | **[grafana/loki #19227](https://github.com/grafana/loki/pull/19227)** | Update loki-helm-test image tag to latest commit | Bugfix |
+| **grafana** | **[grafana/loki #19246](https://github.com/grafana/loki/pull/19246)** | Standardize global image registry to match other Grafana charts | Bugfix |
+| **grafana** | **[grafana/loki #19247](https://github.com/grafana/loki/pull/19247)** | Support private VPC S3 endpoints in Loki operator | Feature |
 | **argoproj** | **[argoproj/argo-events #3738](https://github.com/argoproj/argo-events/pull/3738)** | Handle null values properly in trigger payload construction | Bugfix |
 | **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
 | **argoproj** | **[argoproj/argo-cd #24664](https://github.com/argoproj/argo-cd/pull/24664)** | Resolve argocdService initialization issue in notifications CLI | Bugfix |
@@ -40,10 +44,6 @@ Passionate about transparent communication, team alignment and full **ownership*
 | **argoproj** | **[argoproj/argo-helm #3501](https://github.com/argoproj/argo-helm/pull/3501)** | Fix repo-server NetworkPolicy to allow metrics port access | Bugfix |
 | **argoproj** | **[argoproj/argo-helm #3507](https://github.com/argoproj/argo-helm/pull/3507)** |  Allow configuring resource requests/limits for copyutil initContainer | Feature |
 | **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add label filter sync with URL query params | Feature |
-| **grafana** | **[grafana/loki #19229](https://github.com/grafana/loki/pull/19229)** | Add single-binary component to ingress NetworkPolicy | Bugfix |
-| **grafana** | **[grafana/loki #19227](https://github.com/grafana/loki/pull/19227)** | Update loki-helm-test image tag to latest commit | Bugfix |
-| **grafana** | **[grafana/loki #19246](https://github.com/grafana/loki/pull/19246)** | Standardize global image registry to match other Grafana charts | Bugfix |
-| **grafana** | **[grafana/loki #19247](https://github.com/grafana/loki/pull/19247)** | Support private VPC S3 endpoints in Loki operator | Feature |
 | **googleapis** | **[googleapis/js-genai #821](https://github.com/googleapis/js-genai/pull/821)** | Replace string with typed unions for aspectRatioType | Feature |
 
 ### 💻 Released & Managed Application
