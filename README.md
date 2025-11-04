@@ -26,10 +26,11 @@ Passionate about transparent communication, team alignment and full **ownership*
 ### ✨ Open Source Contribution (only merged or approved)
 | **Organization** | **PR/Issue No.**                | **Contributions**              | **Type** |
 |------------------|---------------------|-------------------|----------|
-| **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add label filter sync with URL query params | Feature |
 | **argoproj** | **[argoproj/argo-rollouts #4460](https://github.com/argoproj/argo-rollouts/pull/4460)** | Support simultaneous ALB and NGINX traffic routing validation | Bugfix |
 | **argoproj** | **[argoproj/argo-rollouts #4457](https://github.com/argoproj/argo-rollouts/pull/4457)** | Add backward compatibility for --metricsport flag | Bugfix |
 | **argoproj** | **[argoproj/argo-events #3738](https://github.com/argoproj/argo-events/pull/3738)** | Handle null values properly in trigger payload construction | Bugfix |
+| **argoproj** | **[argoproj/argo-workflows #14851](https://github.com/argoproj/argo-workflows/pull/14851)** | Add label filter sync with URL query params | Feature |
+| **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add previous runs section to sensor details page | Feature |
 | **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
 | **argoproj** | **[argoproj/argo-cd #24664](https://github.com/argoproj/argo-cd/pull/24664)** | Resolve argocdService initialization issue in notifications CLI | Bugfix |
 | **argoproj** | **[argoproj/argo-cd #24658](https://github.com/argoproj/argo-cd/pull/24658)** | New `jqPaths` ignore differences field for dynamic field selection | Feature |
