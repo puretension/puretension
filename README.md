@@ -23,7 +23,7 @@ Passionate about transparent communication, team alignment and full **ownership*
 - [Google Developer Groups on Campus (GDGoC)](https://www.gdgoc-dgu.com) - Dongguk University 2st Organizer (2024. 08 ~ 2025. 08)
 - [Google Developer Student Clubs (GDSC)](https://www.gdgoc-dgu.com) - Dongguk University 1st Web/App Member (2023. 09 ~ 2024. 08)
 
-### ✨ Open Source Contribution
+### ✨ Open Source Contribution (only merged or approved)
 | **Organization** | **PR/Issue No.**                | **Contributions**              | **Type** |
 |------------------|---------------------|-------------------|----------|
 | **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add label filter sync with URL query params | Feature |
