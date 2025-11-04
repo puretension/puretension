@@ -38,6 +38,8 @@ Passionate about transparent communication, team alignment and full **ownership*
 | **grafana** | **[grafana/loki #19246](https://github.com/grafana/loki/pull/19246)** | Standardize global image registry to match other Grafana charts | Bugfix |
 | **grafana** | **[grafana/loki #19247](https://github.com/grafana/loki/pull/19247)** | Support private VPC S3 endpoints in Loki operator | Feature |
 | **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add label filter sync with URL query params | Feature |
+| **argoproj** | **[argoproj/argo-rollouts #4460](https://github.com/argoproj/argo-rollouts/pull/4460)** | Support simultaneous ALB and NGINX traffic routing validation | Bugfix |
+| **argoproj** | **[argoproj/argo-rollouts #4457](https://github.com/argoproj/argo-rollouts/pull/4457)** | Add backward compatibility for --metricsport flag | Bugfix |
 | **argoproj** | **[argoproj/argo-events #3738](https://github.com/argoproj/argo-events/pull/3738)** | Handle null values properly in trigger payload construction | Bugfix |
 | **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
 | **argoproj** | **[argoproj/argo-cd #24664](https://github.com/argoproj/argo-cd/pull/24664)** | Resolve argocdService initialization issue in notifications CLI | Bugfix |
