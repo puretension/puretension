@@ -17,7 +17,7 @@ Passionate about transparent communication, team alignment and full **ownership*
 - [(주) 코드잇 (Series-B EdTech Startup)](https://sprint.codeit.kr) | 9th FullStack Sprint Mentor | 2025. 08 ~ Present
 - [(주) R2C Company (pre-A Startup)](https://pickply.com) | Software Engineer | 2024. 07 ~ Present
 
-### 🔥 Community Experience
+### 🔥 Activities
 - [2025 OSSCA argoproj](https://github.com/argoproj) Mentee (2025. 07 ~ 2025. 11)
 - [AWS Cloud Clubs](https://www.meetup.com/ko-KR/aws-cloud-club-at-dongguk-university/) - Dongguk University 1st Founder & Captain (2025. 05 ~ 2026. 03)
 - [Google Developer Groups on Campus (GDGoC)](https://www.gdgoc-dgu.com) - Dongguk University 2st Organizer (2024. 08 ~ 2025. 08)
@@ -73,7 +73,7 @@ Passionate about transparent communication, team alignment and full **ownership*
 
 <!--
 ##  Skill
-
+- [Argo Project](https://github.com/argoproj/argoproj/issues/403) Member (2025. 11 ~ Present)
 ### Tech Stack
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
