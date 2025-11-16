@@ -73,8 +73,7 @@ Passionate about transparent communication, team alignment and full **ownership*
 </div>
 
 ### 📢 Presentation 
-- AWS Community Day 2025 Presentation - [Startup Infrastructure Design Rapidly Validated and Redesigned with Amazon Q 
-and CDK](https://drive.google.com/file/d/1ZGnPQvaFeE5H19Ijio9ILmVY421Zqwqy/view?usp=sharing)
+- AWS Community Day 2025 Presentation - [Amazon Q and CDK: Rapid Startup Infrastructure Validation and Redesign](https://drive.google.com/file/d/1ZGnPQvaFeE5H19Ijio9ILmVY421Zqwqy/view?usp=sharing)
 
 <!--
 ##  Skill
