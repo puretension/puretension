@@ -72,6 +72,10 @@ Passionate about transparent communication, team alignment and full **ownership*
     <a href="https://www.credly.com/badges/34325ea8-95fd-433d-82d0-0efd8b9163fb/public_url"><img alt="SAA-C03" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
 </div>
 
+### 📢 Presentation 
+- AWS Community Day 2025 Presentation - [Startup Infrastructure Design Rapidly Validated and Redesigned with Amazon Q 
+and CDK](https://drive.google.com/file/d/1ZGnPQvaFeE5H19Ijio9ILmVY421Zqwqy/view?usp=sharing)
+
 <!--
 ##  Skill
 - [Argo Project](https://github.com/argoproj/argoproj/issues/403) Member (2025. 11 ~ Present)
