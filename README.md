@@ -14,8 +14,8 @@ Passionate about transparent communication, team alignment and full **ownership*
 
 ### 🏢 Work Experience
 
-- [(주) 코드잇 (Series B Startup)](https://sprint.codeit.kr) | 9th FullStack Sprint Mentor | 2025. 08 ~ Present
-- [(주) R2C Company (Pre-Series A Startup)](https://pickply.com) | Software Engineer | 2024. 07 ~ Present
+- [(주) 코드잇 (Series B Startup)](https://sprint.codeit.kr) | 9th FullStack Sprint Mentor | 2025. 08 ~ 2026. 02
+- [(주) R2C Company (Pre-Series A Startup)](https://pickply.com) | Software Engineer | 2024. 07 ~ 2025. 12
 
 ### 🔥 Activities
 - [ArgoProj](https://github.com/argoproj/argoproj/issues/403) Member (2025. 11 ~ Present)
