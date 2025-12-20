@@ -68,9 +68,15 @@ Passionate about transparent communication, team alignment and full **ownership*
 
 ### 🪪 Technical Certification
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <a href="https://www.credly.com/badges/34325ea8-95fd-433d-82d0-0efd8b9163fb/public_url"><img alt="SAA-C03" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
+</div> -->
+
+<div style="display:flex;">
 </div>
+<a href="https://www.credly.com/badges/ce497621-fea0-43ab-9dcb-dc1e5a5ad843/public_url"><img width="150" height="150" src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"/></a>
+<a href="https://www.credly.com/badges/34325ea8-95fd-433d-82d0-0efd8b9163fb/public_url"><img width="150" height="150" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/></a>
+<br>
 
 ### 📢 Presentation 
 - AWS Community Day 2025 Presentation - [Amazon Q and CDK: Rapid Startup Infrastructure Validation and Redesign](https://youtu.be/77pm9qxbQXM?si=Br6E1OB1IJGMPc2i)
