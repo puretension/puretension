@@ -54,9 +54,9 @@ Passionate about transparent communication, team alignment and full **ownership*
 
 ### 💻 Released & Managed Application
 
-[R2C Company](https://pickply.com) | Software Engineer | 2024. 07 ~ Present
+[R2C Company](https://pickply.com) | Software Engineer | 2024. 07 ~ 2026.01
 
-- <img src="https://github.com/user-attachments/assets/63cacbff-6b16-4f90-a78a-bb7cd582f4cb" alt="Pickply Icon" width="16" height="16" /> 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~
+- <img src="https://github.com/user-attachments/assets/63cacbff-6b16-4f90-a78a-bb7cd582f4cb" alt="Pickply Icon" width="16" height="16" /> 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 2.7.0
 
 [Bubble](https://letscareer.oopy.io/17a5e77c-bee1-80cd-8239-e09b49af696c) | Front-End Engineer | 2024. 03 ~ 2025. 02
 
