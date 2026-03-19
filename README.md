@@ -35,14 +35,12 @@ Passionate about transparent communication, team alignment and full **ownership*
 | **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add previous runs section to sensor details page | Feature |
 | **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
 | **argoproj** | **[argoproj/argo-cd #24664](https://github.com/argoproj/argo-cd/pull/24664)** | Resolve argocdService initialization issue in notifications CLI | Bugfix |
-| **argoproj** | **[argoproj/argo-cd #24658](https://github.com/argoproj/argo-cd/pull/24658)** | New `jqPaths` ignore differences field for dynamic field selection | Feature |
 | **argoproj** | **[argoproj/argo-helm #3494](https://github.com/argoproj/argo-helm/pull/3494)** | Add workflowtasksets/status RBAC permission | Bugfix |
 | **argoproj** | **[argoproj/argo-helm #3500](https://github.com/argoproj/argo-helm/pull/3500)** | Add custom roleRules support for application-controller | Feature |
 | **argoproj** | **[argoproj/argo-helm #3501](https://github.com/argoproj/argo-helm/pull/3501)** | Fix repo-server NetworkPolicy to allow metrics port access | Bugfix |
 | **argoproj** | **[argoproj/argo-helm #3507](https://github.com/argoproj/argo-helm/pull/3507)** |  Allow configuring resource requests/limits for copyutil initContainer | Feature |
 | **aws** | **[aws/aws-cdk #35508](https://github.com/aws/aws-cdk/pull/35508)** | fix(ecs-patterns): resolve target group conflict when updating ALB internetFacing or loadBalancerName (under feature flag) | Bugfix |
 | **aws** | **[aws/aws-cdk #35484](https://github.com/aws/aws-cdk/pull/35484)** | Correct spelling of "separate" in comments | Documentation |
-| **aws** | **[aws/aws-cdk #35478](https://github.com/aws/aws-cdk/pull/35478)** | Add fallback grants for cross-account secrets | Bugfix |
 | **DataDog** | **[DataDog/datadog-agent #41048](https://github.com/DataDog/datadog-agent/pull/41048)** | Separate CPU/Memory requests and limits for Auto-Instrumentation Init Containers | Feature |
 | **DataDog** | **[DataDog/integrations-core #21385](https://github.com/DataDog/integrations-core/pull/21385)** | Fix OpenLDAP custom queries to use search_scope parameter | Bugfix |
 | **DataDog** | **[DataDog/integrations-core #21399](https://github.com/DataDog/integrations-core/pull/21399)** | Handle AttributeError when Qemu Agent is not available | Bugfix |
