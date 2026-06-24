@@ -1,11 +1,12 @@
 
-
 ## 👋🏻 Dohyeong Lee (Software Engineer)
+<!-- 
 ### [📄Resume - updated at 2026.03.07](https://drive.google.com/file/d/1TWItWuc-fAsW9-wPw2_fqNwC3GmqrD22/view?usp=share_link)
 
 Software engineer with a **growth mindset**, transitioning from liberal arts to computer science while maintaining a top GPA.</br> 
 Experienced in full-stack development and cloud solutions **at startups**, with a focus on building scalable and reliable systems.</br> 
 Passionate about transparent communication, team alignment and full **ownership** to drive business value.</br>
+-->
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dohyeong_Lee-white?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leedohyeong/)
 [![Email Badge](https://img.shields.io/badge/Email-kr.dev.leedohyeong@gmail.com-white?style=flat-square)](mailto:kr.dev.leedohyeong@gmail.com)
@@ -25,45 +26,6 @@ Passionate about transparent communication, team alignment and full **ownership*
 - [Google Developer Groups on Campus (GDGoC)](https://www.gdgoc-dgu.com) - Dongguk University 2st Organizer (2024. 08 ~ 2025. 08)
 - [Google Developer Student Clubs (GDSC)](https://www.gdgoc-dgu.com) - Dongguk University 1st Web/App Member (2023. 09 ~ 2024. 08)
 
-### ✨ Open Source Contribution (only merged or approved)
-| **Organization** | **PR/Issue No.**                | **Contributions**              | **Type** |
-|------------------|---------------------|-------------------|----------|
-| **argoproj** | **[argoproj/argo-rollouts #4460](https://github.com/argoproj/argo-rollouts/pull/4460)** | Support simultaneous ALB and NGINX traffic routing validation | Bugfix |
-| **argoproj** | **[argoproj/argo-rollouts #4457](https://github.com/argoproj/argo-rollouts/pull/4457)** | Add backward compatibility for --metricsport flag | Bugfix |
-| **argoproj** | **[argoproj/argo-events #3738](https://github.com/argoproj/argo-events/pull/3738)** | Handle null values properly in trigger payload construction | Bugfix |
-| **argoproj** | **[argoproj/argo-workflows #14851](https://github.com/argoproj/argo-workflows/pull/14851)** | Add label filter sync with URL query params | Feature |
-| **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add previous runs section to sensor details page | Feature |
-| **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
-| **argoproj** | **[argoproj/argo-cd #24664](https://github.com/argoproj/argo-cd/pull/24664)** | Resolve argocdService initialization issue in notifications CLI | Bugfix |
-| **argoproj** | **[argoproj/argo-helm #3494](https://github.com/argoproj/argo-helm/pull/3494)** | Add workflowtasksets/status RBAC permission | Bugfix |
-| **argoproj** | **[argoproj/argo-helm #3500](https://github.com/argoproj/argo-helm/pull/3500)** | Add custom roleRules support for application-controller | Feature |
-| **argoproj** | **[argoproj/argo-helm #3501](https://github.com/argoproj/argo-helm/pull/3501)** | Fix repo-server NetworkPolicy to allow metrics port access | Bugfix |
-| **argoproj** | **[argoproj/argo-helm #3507](https://github.com/argoproj/argo-helm/pull/3507)** |  Allow configuring resource requests/limits for copyutil initContainer | Feature |
-| **aws** | **[aws/aws-cdk #35508](https://github.com/aws/aws-cdk/pull/35508)** | fix(ecs-patterns): resolve target group conflict when updating ALB internetFacing or loadBalancerName (under feature flag) | Bugfix |
-| **aws** | **[aws/aws-cdk #35484](https://github.com/aws/aws-cdk/pull/35484)** | Correct spelling of "separate" in comments | Documentation |
-| **DataDog** | **[DataDog/datadog-agent #41048](https://github.com/DataDog/datadog-agent/pull/41048)** | Separate CPU/Memory requests and limits for Auto-Instrumentation Init Containers | Feature |
-| **DataDog** | **[DataDog/integrations-core #21385](https://github.com/DataDog/integrations-core/pull/21385)** | Fix OpenLDAP custom queries to use search_scope parameter | Bugfix |
-| **DataDog** | **[DataDog/integrations-core #21399](https://github.com/DataDog/integrations-core/pull/21399)** | Handle AttributeError when Qemu Agent is not available | Bugfix |
-| **DataDog** | **[DataDog/datadog-operator #2184](https://github.com/DataDog/datadog-operator/pull/2184)** | Add DD_DASHBOARD_FORCE_SYNC_PERIOD environment variable | Feature |
-| **grafana** | **[grafana/loki #19229](https://github.com/grafana/loki/pull/19229)** | Add single-binary component to ingress NetworkPolicy | Bugfix |
-| **grafana** | **[grafana/loki #19227](https://github.com/grafana/loki/pull/19227)** | Update loki-helm-test image tag to latest commit | Bugfix |
-| **grafana** | **[grafana/loki #19246](https://github.com/grafana/loki/pull/19246)** | Standardize global image registry to match other Grafana charts | Bugfix |
-| **grafana** | **[grafana/loki #19247](https://github.com/grafana/loki/pull/19247)** | Support private VPC S3 endpoints in Loki operator | Feature |
-| **googleapis** | **[googleapis/js-genai #821](https://github.com/googleapis/js-genai/pull/821)** | Replace string with typed unions for aspectRatioType | Feature |
-
-### 💻 Released & Managed Application
-
-[R2C Company](https://pickply.com) | Software Engineer | 2024. 07 ~ 2026.01
-
-- 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 2.7.3
-
-[Bubble](https://letscareer.oopy.io/17a5e77c-bee1-80cd-8239-e09b49af696c) | Front-End Engineer | 2024. 03 ~ 2025. 02
-
-- 팝핀 | IOS: [Link](https://apps.apple.com/kr/app/팝핀-맞춤형-팝업-스토어-추천/id6482994685) | ver.1.0.0 ~ 1.4.1
-
-[GrowthHelper](https://growthhelper.kr) | Software Engineer | 2023. 07 ~ 2024. 06
-
-- 인터미션 | IOS: [Link](https://apps.apple.com/us/app/인터미션-intermission/id6471970116) | ver.1.0.0 ~ 1.0.2
 
 ### 🪪 Technical Certification
 
@@ -82,6 +44,49 @@ https://github.com/user-attachments/assets/44f7406a-7c7d-4dc1-a743-2e68fc4899c0 
 
 ### 📢 Presentation 
 - AWS Community Day 2025 Presentation - [Amazon Q and CDK: Rapid Startup Infrastructure Validation and Redesign](https://youtu.be/77pm9qxbQXM?si=Br6E1OB1IJGMPc2i)
+
+
+### 💻 Released & Managed Application
+
+[R2C Company](https://pickply.com) | Software Engineer | 2024. 07 ~ 2026.01
+
+- 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 2.7.3
+
+[Bubble](https://letscareer.oopy.io/17a5e77c-bee1-80cd-8239-e09b49af696c) | Frontend Engineer | 2024. 03 ~ 2025. 02
+
+- 팝핀 | IOS: [Link](https://apps.apple.com/kr/app/팝핀-맞춤형-팝업-스토어-추천/id6482994685) | ver.1.0.0 ~ 1.4.1
+
+[GrowthHelper](https://growthhelper.kr) | Software Engineer | 2023. 07 ~ 2024. 06
+
+- 인터미션 | IOS: [Link](https://apps.apple.com/us/app/인터미션-intermission/id6471970116) | ver.1.0.0 ~ 1.0.2
+
+### ✨ Open Source Contribution (only merged or approved)
+| **Organization** | **PR/Issue No.**                | **Contributions**              | **Type** |
+|------------------|---------------------|-------------------|----------|
+| **argoproj** | **[argoproj/argo-rollouts #4460](https://github.com/argoproj/argo-rollouts/pull/4460)** | Support simultaneous ALB and NGINX traffic routing validation | Bugfix |
+| **argoproj** | **[argoproj/argo-rollouts #4457](https://github.com/argoproj/argo-rollouts/pull/4457)** | Add backward compatibility for --metricsport flag | Bugfix |
+| **argoproj** | **[argoproj/argo-events #3738](https://github.com/argoproj/argo-events/pull/3738)** | Handle null values properly in trigger payload construction | Bugfix |
+| **argoproj** | **[argoproj/argo-workflows #14851](https://github.com/argoproj/argo-workflows/pull/14851)** | Add label filter sync with URL query params | Feature |
+| **argoproj** | **[argoproj/argo-workflows #14816](https://github.com/argoproj/argo-workflows/pull/14816)** | Add previous runs section to sensor details page | Feature |
+| **argoproj** | **[argoproj/argo-cd #23888](https://github.com/argoproj/argo-cd/pull/23888)** | Add TLS configuration quick reference table for easier understanding | Documentation |
+| **argoproj** | **[argoproj/argo-cd #24664](https://github.com/argoproj/argo-cd/pull/24664)** | Resolve argocdService initialization issue in notifications CLI | Bugfix |
+| **argoproj** | **[argoproj/argo-helm #3494](https://github.com/argoproj/argo-helm/pull/3494)** | Add workflowtasksets/status RBAC permission | Bugfix |
+| **argoproj** | **[argoproj/argo-helm #3500](https://github.com/argoproj/argo-helm/pull/3500)** | Add custom roleRules support for application-controller | Feature |
+| **argoproj** | **[argoproj/argo-helm #3501](https://github.com/argoproj/argo-helm/pull/3501)** | Fix repo-server NetworkPolicy to allow metrics port access | Bugfix |
+| **argoproj** | **[argoproj/argo-helm #3507](https://github.com/argoproj/argo-helm/pull/3507)** |  Allow configuring resource requests/limits for copyutil initContainer | Feature |
+| **aws** | **[aws/aws-cdk #35508](https://github.com/aws/aws-cdk/pull/35508)** | fix(ecs-patterns): resolve target group conflict when updating ALB internetFacing or loadBalancerName (under feature flag) | Bugfix |
+| **DataDog** | **[DataDog/datadog-agent #41048](https://github.com/DataDog/datadog-agent/pull/41048)** | Separate CPU/Memory requests and limits for Auto-Instrumentation Init Containers | Feature |
+| **DataDog** | **[DataDog/integrations-core #21385](https://github.com/DataDog/integrations-core/pull/21385)** | Fix OpenLDAP custom queries to use search_scope parameter | Bugfix |
+| **DataDog** | **[DataDog/integrations-core #21399](https://github.com/DataDog/integrations-core/pull/21399)** | Handle AttributeError when Qemu Agent is not available | Bugfix |
+| **DataDog** | **[DataDog/datadog-operator #2184](https://github.com/DataDog/datadog-operator/pull/2184)** | Add DD_DASHBOARD_FORCE_SYNC_PERIOD environment variable | Feature |
+| **grafana** | **[grafana/loki #19229](https://github.com/grafana/loki/pull/19229)** | Add single-binary component to ingress NetworkPolicy | Bugfix |
+| **grafana** | **[grafana/loki #19227](https://github.com/grafana/loki/pull/19227)** | Update loki-helm-test image tag to latest commit | Bugfix |
+| **grafana** | **[grafana/loki #19246](https://github.com/grafana/loki/pull/19246)** | Standardize global image registry to match other Grafana charts | Bugfix |
+| **grafana** | **[grafana/loki #19247](https://github.com/grafana/loki/pull/19247)** | Support private VPC S3 endpoints in Loki operator | Feature |
+<!-- | **googleapis** | **[googleapis/js-genai #821](https://github.com/googleapis/js-genai/pull/821)** | Replace string with typed unions for aspectRatioType | Feature | | -->
+<!--  | **aws** | **[aws/aws-cdk #35484](https://github.com/aws/aws-cdk/pull/35484)** | Correct spelling of "separate" in comments | Documentation | | -->
+
+
 
 <!--
 ##  Skill
