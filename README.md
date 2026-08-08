@@ -82,7 +82,7 @@ https://github.com/user-attachments/assets/44f7406a-7c7d-4dc1-a743-2e68fc4899c0 
 | **grafana** | **[grafana/loki #19229](https://github.com/grafana/loki/pull/19229)** | Add single-binary component to ingress NetworkPolicy | Bugfix |
 | **grafana** | **[grafana/loki #19227](https://github.com/grafana/loki/pull/19227)** | Update loki-helm-test image tag to latest commit | Bugfix |
 | **grafana** | **[grafana/loki #19246](https://github.com/grafana/loki/pull/19246)** | Standardize global image registry to match other Grafana charts | Bugfix |
-| **grafana** | **[grafana/loki #19247](https://github.com/grafana/loki/pull/19247)** | Support private VPC S3 endpoints in Loki operator | Feature |
+| **grafana** | **[grafana/loki #19247](https://github.com/grafana/loki/pull/19247)** **[grafana/loki #22395](https://github.com/grafana/loki/pull/22395)**  | Support private VPC S3 endpoints in Loki operator | Feature |
 <!-- | **googleapis** | **[googleapis/js-genai #821](https://github.com/googleapis/js-genai/pull/821)** | Replace string with typed unions for aspectRatioType | Feature | | -->
 <!--  | **aws** | **[aws/aws-cdk #35484](https://github.com/aws/aws-cdk/pull/35484)** | Correct spelling of "separate" in comments | Documentation | | -->
 
