@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/44f7406a-7c7d-4dc1-a743-2e68fc4899c0 
 
 ### 💻 Released & Managed Application
 
-[R2C Company](https://pickply.com) | Software Engineer | 2024. 07 ~ 2026.01
+[R2C Company](https://pickply.com) | Software Engineer | 2024. 08 ~ 2026.01
 
 - 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 2.7.3
 
