@@ -16,7 +16,7 @@ Passionate about transparent communication, team alignment and full **ownership*
 ### 🏢 Work Experience
 
 - [(주) 코드잇 (Series B Startup)](https://sprint.codeit.kr) | 9th, 11th FullStack Sprint Mentor | 2025. 08 ~ 2026. 06
-- [(주) R2C Company (Pre-Series A Startup)](https://pickply.com) | FullStack Engineer | 2024. 07 ~ 2026. 01
+- [(주) R2C Company (Pre-Series A Startup)](https://pickply.com) | FullStack Engineer | 2024. 08 ~ 2026. 01
 
 ### 🔥 Activities
 - [AWS Community Builder - DevTools](https://builder.aws.com/community/@puretension?tab=articles) (2026.03 ~ Present)
