@@ -22,7 +22,6 @@
 - [Google Developer Groups on Campus (GDGoC)](https://www.gdgoc-dgu.com) - Dongguk University 2st Organizer (2024. 08 ~ 2025. 07)
 - [Google Developer Student Clubs (GDSC)](https://www.gdgoc-dgu.com) - Dongguk University 1st Web/App Member (2023. 09 ~ 2024. 08)
 
-
 ### 🪪 Technical Certification
 <div style="display:flex;">
 
@@ -34,7 +33,6 @@
 
 ### 📢 Presentation 
 - AWS Community Day 2025 Presentation - [Amazon Q and CDK: Rapid Startup Infrastructure Validation and Redesign](https://youtu.be/77pm9qxbQXM?si=Br6E1OB1IJGMPc2i)
-
 
 ### 💻 Released & Managed Application
 
