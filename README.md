@@ -10,8 +10,8 @@
 
 ### 🏢 Work Experience
 - [Samil PwC (PwC Korea)](https://www.pwc.com/kr/ko/) | System Engineer | 2026.09 ~ Present
-- [Codeit (Series B Startup)](https://sprint.codeit.kr) | FullStack Sprint Mentor | 2025. 08 ~ 2027. 01
-- [R2C Company (Pre-Series A Startup)](https://pickply.com) | FullStack Engineer | 2024. 08 ~ 2026. 01
+- [Codeit (Pre-IPO Startup)](https://sprint.codeit.kr) | FullStack Sprint Mentor | 2025. 08 ~ 2027. 01
+- [R2C Company (Pre-A Startup)](https://pickply.com) | FullStack Engineer | 2024. 08 ~ 2026. 01
 
 ### 🔥 Activities
 - [AWS Community Builder - DevTools](https://builder.aws.com/community/@puretension?tab=articles) (2026.03 ~ Present)
