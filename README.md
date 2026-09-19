@@ -9,12 +9,12 @@
 
 ### 🏢 Work Experience
 - [Samil PwC (PwC Korea)](https://www.pwc.com/kr/ko/) | System Engineer | 2026.09 ~ Present
-- [Codeit (Pre-IPO Startup)](https://sprint.codeit.kr) | FullStack Sprint Mentor | 2025. 08 ~ 2027. 01
 - [R2C Company (Pre-A Startup)](https://pickply.com) | FullStack Engineer | 2024. 08 ~ 2026. 01
 
 ### 🔥 Activities
 - [AWS Community Builder - DevTools](https://builder.aws.com/community/@puretension?tab=articles) (2026.03 ~ Present)
 - [ArgoProj](https://github.com/argoproj/argoproj/issues/403) Member (2025. 11 ~ Present)
+- [Codeit (Pre-IPO Startup)](https://sprint.codeit.kr) FullStack Sprint Mentor (2025. 08 ~ 2027. 01)
 - [2025 OSSCA ArgoProj](https://www.oss.kr/projects_2025_2/show/1a61bb83-00af-4bc9-a243-3d89d152fd8a) Mentee (2025. 07 ~ 2025. 11)
 - [AWS Cloud Clubs](https://www.meetup.com/ko-KR/aws-cloud-club-at-dongguk-university/) - Dongguk University 1st Founder & Captain (2025. 05 ~ 2026. 03)
 - [Google Developer Groups on Campus (GDGoC)](https://www.gdgoc-dgu.com) - Dongguk University 2st Organizer (2024. 08 ~ 2025. 08)
