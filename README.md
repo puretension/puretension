@@ -37,7 +37,7 @@
 
 ### 💻 Released & Managed Application
 
-[R2C Company](https://pickply.com) | Fullstack Engineer | 2024. 08 ~ 2026.01
+[R2C Company](https://pickply.com) | FullStack Engineer | 2024. 08 ~ 2026.01
 
 - 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 2.7.3
 
