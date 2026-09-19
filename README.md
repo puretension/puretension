@@ -6,10 +6,12 @@
 [![Blog Badge](https://img.shields.io/badge/Blog-leedohyeong.com-white?style=flat-square&logo=googlechrome)](https://www.leedohyeong.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-purelime-white?style=flat-square&logo=tistory)](https://purelime.tistory.com)
 
-
 ### 🏢 Work Experience
 - [Samil PwC (PwC Korea)](https://www.pwc.com/kr/ko/) | DevOps Engineer | 2026.09 ~ Present
 - [R2C Company (Pre-A Startup)](https://pickply.com) | FullStack Engineer | 2024. 08 ~ 2026. 01
+
+### 🎓 Education
+- Dongguk University | B.S. in Computer Science and Engineering | 2020.03 ~ 2026.08
 
 ### 🔥 Activities
 - [AWS Community Builder - DevTools](https://builder.aws.com/community/@puretension?tab=articles) (2026.03 ~ Present)
