@@ -4,7 +4,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dohyeong_Lee-white?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leedohyeong/)
 [![Email Badge](https://img.shields.io/badge/Email-kr.dev.leedohyeong@gmail.com-white?style=flat-square)](mailto:kr.dev.leedohyeong@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-leedohyeong.com-white?style=flat-square&logo=googlechrome)](https://www.leedohyeong.com)
-[![Medium Badge](https://img.shields.io/badge/Medium-@dohyeong-white?style=flat-square&logo=medium)](https://medium.com/@dohyeong)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-purelime-white?style=flat-square&logo=tistory)](https://purelime.tistory.com)
 
 
