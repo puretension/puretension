@@ -8,7 +8,7 @@
 
 
 ### 🏢 Work Experience
-- [Samil PwC (PwC Korea)](https://www.pwc.com/kr/ko/) | System Engineer | 2026.09 ~ Present
+- [Samil PwC (PwC Korea)](https://www.pwc.com/kr/ko/) | DevOps Engineer | 2026.09 ~ Present
 - [R2C Company (Pre-A Startup)](https://pickply.com) | FullStack Engineer | 2024. 08 ~ 2026. 01
 
 ### 🔥 Activities
