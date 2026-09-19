@@ -37,15 +37,15 @@
 
 ### 💻 Released & Managed Application
 
-[R2C Company](https://pickply.com) | Software Engineer | 2024. 08 ~ 2026.01
+[R2C Company](https://pickply.com) | Fullstack Engineer | 2024. 08 ~ 2026.01
 
 - 픽플리 | IOS: [Link](https://apps.apple.com/kr/app/pickply/id1640390682) | Android: [Link](https://play.google.com/store/apps/details?id=com.pickpleresearch&hl=ko) | ver.1.6.17 ~ 2.7.3
 
-[Bubble](https://letscareer.oopy.io/17a5e77c-bee1-80cd-8239-e09b49af696c) | Frontend Engineer | 2024. 03 ~ 2025. 02
+[Bubble](https://letscareer.oopy.io/17a5e77c-bee1-80cd-8239-e09b49af696c) | React Native Engineer | 2024. 03 ~ 2025. 02
 
 - 팝핀 | IOS: [Link](https://apps.apple.com/kr/app/팝핀-맞춤형-팝업-스토어-추천/id6482994685) | ver.1.0.0 ~ 1.4.1
 
-[GrowthHelper](https://growthhelper.kr) | Software Engineer | 2023. 07 ~ 2024. 06
+[GrowthHelper](https://growthhelper.kr) | Flutter Engineer | 2023. 07 ~ 2024. 06
 
 - 인터미션 | IOS: [Link](https://apps.apple.com/us/app/인터미션-intermission/id6471970116) | ver.1.0.0 ~ 1.0.2
 
